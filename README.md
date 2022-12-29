@@ -1,7 +1,7 @@
 # htmlform2yetiforce
 Basic HTML Form Example - Yetiforce REST API
 
-Edit YetiREST/config.php with your own credentials / URL
+Edit YetiREST/config.php with your own credentials and your CRM URL
 
 	'apiPath' => 'https://replace_with_your_yetiforce_url/webservice/WebserviceStandard/',
 	'wsAppName' => 'replace_with_your_webservice_app_name',
