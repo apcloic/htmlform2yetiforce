@@ -24,10 +24,3 @@ return [
 	// 'dbUser' => 'api',
 	// 'dbPass' => '',
 ];
-
-	'apiPath' => 'https://yetiforce.url/webservice/WebserviceStandard/',
-	'wsAppName' => 'replace_with_your_webservice_app_name',
-	'wsAppPass' => 'replace_with_your_webservice_app_password',
-	'wsApiKey' => 'replace_with_your_webservice_app_key',
-	'wsUserName' => 'replace_with_your_webservice_user_login',
-	'wsUserPass' => 'replace_with_your_webservice_user_password'
